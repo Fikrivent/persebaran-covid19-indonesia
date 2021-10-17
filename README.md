@@ -1,8 +1,8 @@
 # DATASET PERSEBARAN COVID-19 PADA 10 PROVINSI DI INDONESIA
 
-#PERIODE 15 - 17 OKTOBER 2021
+# PERIODE 15 - 17 OKTOBER 2021
 
-#Provinsi yang termasuk antara lain adalah : 
+Provinsi yang termasuk antara lain adalah : 
   1) DKI JAKARTA
   2) JAWA BARAT
   3) JAWA TENGAH
