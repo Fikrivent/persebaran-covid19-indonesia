@@ -2,6 +2,8 @@
 
 # PERIODE 15 - 18 OKTOBER 2021
 
+[![DOI](https://zenodo.org/badge/418128267.svg)](https://zenodo.org/badge/latestdoi/418128267)
+
 Provinsi yang termasuk antara lain adalah : 
   1) DKI JAKARTA
   2) JAWA BARAT
